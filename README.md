@@ -40,7 +40,7 @@ Ipdrone is a simply python script, which can be used to Ip lookup and to get inf
 
 ### REQUIREMENTS :
 * internet
-* storage 400 MB
+* storage 400 MB+
 * python
 
 ## FEATURES :
@@ -63,7 +63,7 @@ Ipdrone is a simply python script, which can be used to Ip lookup and to get inf
 * `ls`
 * `cd ipdrone`
 * `ls`
-* `python ipdrone.py -v (your victim ip here)`
+* `python ipdrone.py -v (Enter Your IP Here)`
 ```
 ex:- python ipdrone.py -v 127.0,0.1
 
