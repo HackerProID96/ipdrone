@@ -34,7 +34,7 @@ print (red+"""
                                                       v 1.0
 """+red)
 print (lgreen+bold+"         <===[[ IP TRACKER IS READY ]]===> \n"+clear)
-print (yellow+bold+"   <---((   Tracking Target IP   ))--> \n"+clear)
+print (yellow+bold+"   <---((   Tracking Target IP   ))---> \n"+clear)
 
 
 ip = args.target
