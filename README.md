@@ -65,7 +65,7 @@ Ipdrone is a simply python script, which can be used to Ip lookup and to get inf
 * `ls`
 * `python ipdrone.py -v (Enter Your IP Here)`
 ```
-ex:- python ipdrone.py -v 127.0,0.1
+example: python ipdrone.py -v 36.86.63.185
 
 Hurray... you got his location with some more information
 
