@@ -46,7 +46,7 @@ Ipdrone is a simply python script, which can be used to Ip lookup and to get inf
 ## FEATURES :
 * [+] Real live location !
 * [+] Updated maintainence !
-* [+] Ip lookup
+* [+] IP lookup
 * [+] Easy for Beginners !
 
 ## INSTALLATION [Termux] :
