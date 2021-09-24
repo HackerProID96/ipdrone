@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/HackerProID96"><img title="Made in INDONESIA" src="https://img.shields.io/badge/MADE%20IN-INDONESIA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
+<a href="https://github.com/HackerProID96"><img title="Made in AMERICA" src="https://img.shields.io/badge/MADE%20IN-AMERICA-SCRIPT?colorA=%23ff8100&colorB=%23017e40&colorC=%23ff0000&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/HackerProID96"><img title="Made in ENGLISH" src="https://img.shields.io/badge/Tool-Ipdrone-green.svg"></a>
@@ -65,7 +65,7 @@ Ipdrone is a simply python script, which can be used to Ip lookup and to get inf
 * `ls`
 * `python ipdrone.py -v (Enter Your IP Here)`
 ```
-example: python ipdrone.py -v 36.86.63.185
+example: python ipdrone.py -v 148.0,0.2
 
 Hurray... you got his location with some more information
 
