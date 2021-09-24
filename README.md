@@ -79,8 +79,8 @@ __SCAN__ :
 
 <br>
 <p align="center">
-<img width="48%" src="https://user-images.githubusercontent.com/49580304/96668874-f114aa80-1310-11eb-870e-4f5371f710f4.jpg"/>
-<img width="50%" src="https://user-images.githubusercontent.com/49580304/96668871-ef4ae700-1310-11eb-9549-cde33ef19a71.jpg"/>
+<img width="48%" src="https://media.discordapp.net/attachments/890546209952006157/890845551887802428/Screenshot_2021-09-24-13-16-45-82_84d3000e3f4017145260f7618db1d683.jpg"/>
+<img width="50%" src="https://media.discordapp.net/attachments/890546209952006157/890845552131076096/Screenshot_2021-09-24-13-19-51-59_84d3000e3f4017145260f7618db1d683.jpg"/>
 </p>
 
 ## WARNING : 
